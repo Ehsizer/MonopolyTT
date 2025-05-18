@@ -1,0 +1,44 @@
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Console test task.exe
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Console test task.deps.json
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Console test task.runtimeconfig.json
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Console test task.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Console test task.pdb
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\Console test task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.csproj.CopyComplete
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.dll
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\refint\Console test task.dll
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.pdb
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\Console test task.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Console test task\obj\Debug\net6.0\ref\Console test task.dll
