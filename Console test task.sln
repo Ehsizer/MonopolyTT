@@ -7,6 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console test task", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wh.Tests", "..\Wh.Tests\Wh.Tests.csproj", "{CDC4E2EE-BC25-46AD-A46B-5632BF4A8509}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{6499392B-E7BC-4FFD-84CC-4B880688EB4A}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+		..\..\..\Desktop\warehouse.sql = ..\..\..\Desktop\warehouse.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
